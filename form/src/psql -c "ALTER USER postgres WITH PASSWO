@@ -1,0 +1,2 @@
+psql -c "ALTER USER postgres WITH PASSWORD 'magic';"
+psql -d postgres -U postgres 

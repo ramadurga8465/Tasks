@@ -1,0 +1,26 @@
+{
+  "name": "postgres",
+  "version": "1.0.0",
+  "description": "\"Learn how NodeJS and Express can interact with PostgreSQL\",",
+  "main": ",",
+  "scripts": {
+    "test": ","
+  },
+  "repository": {
+    "type": "git",
+    "url": ","
+  },
+  "keywords": [],
+  "author": ",",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "pg": "^8.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
